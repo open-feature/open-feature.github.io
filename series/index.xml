@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on OpenFeature project</title>
-    <link>openfeatureflags.github.io/series/</link>
+    <link>https://openfeatureflags.github.io/series/</link>
     <description>Recent content in Series on OpenFeature project</description>
     <image>
-      <url>openfeatureflags.github.io/logo.png</url>
-      <link>openfeatureflags.github.io/logo.png</link>
+      <url>https://openfeatureflags.github.io/logo.png</url>
+      <link>https://openfeatureflags.github.io/logo.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="openfeatureflags.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://openfeatureflags.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

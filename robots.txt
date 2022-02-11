@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: openfeatureflags.github.io/sitemap.xml

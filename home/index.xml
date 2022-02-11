@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Homes on OpenFeature project</title>
+    <link>openfeatureflags.github.io/home/</link>
+    <description>Recent content in Homes on OpenFeature project</description>
+    <image>
+      <url>openfeatureflags.github.io/logo.png</url>
+      <link>openfeatureflags.github.io/logo.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="openfeatureflags.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Manifesto</title>
+      <link>openfeatureflags.github.io/home/manifesto/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>openfeatureflags.github.io/home/manifesto/</guid>
+      <description>What is this project about?</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>openfeatureflags.github.io/home/interested/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>openfeatureflags.github.io/home/interested/</guid>
+      <description>How to contact the community?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,4 +8,4 @@ weight: 3
 Interested?
 Add yourself to the interested parties [here](https://github.com/openfeatureflags/governance/blob/main/interested-parties.md),
 and stay tuned for the announcements!
-We are going to create the communication channels soon.
+We will create the communication channels soon.

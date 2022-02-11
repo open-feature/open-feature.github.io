@@ -1,0 +1,3 @@
+baseURL = 'openfeatureflags.github.io'
+languageCode = 'en-us'
+title = 'OpenFeature project'

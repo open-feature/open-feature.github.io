@@ -81,9 +81,13 @@ params:
           The scope includes: Unified API and SDK;
           Developer-first, cloud-native reference implementation; 
           Extensibility for open source and commercial offerings.
+          <br>
+          <br>
+          **[>> Sign-up for news <<](https://bit.ly/openfeature-signup)**
     socialIcons:
         - name: github
           url: "https://github.com/openfeatureflags"
+        
 
     editPost:
         URL: "https://github.com/openfeatureflags/openfeatureflags.github.io/tree/main/.github/content"

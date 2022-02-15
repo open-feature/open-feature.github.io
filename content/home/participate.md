@@ -9,7 +9,7 @@ weight: 3
 
 Sign-up for the news and share your expectations using
 **[this Google Form](https://bit.ly/openfeature-signup)**.
-This form collects contact emails and also offers opportunities to share your expectations from the project.
+This form collects contact emails and also offers opportunities to share your expectations for the project.
 We will contact you soon.
 
 Also feel free to add yourself to

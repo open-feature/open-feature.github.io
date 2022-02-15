@@ -1,0 +1,22 @@
+<!-- News Signup -->
+<!-- Credits for the approach: Victor Augusteo, https://www.augusteo.com/blog/how-to-build-responsive-newsletter-signup-box-for-hugo/ -->
+<style type="text/css" media="screen">
+    {{ resources.Get "assets/css/news-signup.css" }}
+</style>
+<link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+
+<div id="revue-embed" class="revue-embed">
+    <form action="http://digest.augusteo.com/add_subscriber" method="post" id="revue-form" name="revue-form"
+          target="_blank">
+        <div class="revue-header">
+            <p>Sign-up for newsletter!</p>
+        </div>
+        <div class="revue-description">
+            We will send you project updates
+        </div>
+        <div class="revue-input">
+            <input type="email" class="button" name="member[email]" id="member_email" placeholder="Your email address...">
+            <input type="submit" class="button" name="member[subscribe]" id="member_submit" value="Subscribe">
+        </div>
+    </form>
+</div>

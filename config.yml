@@ -62,13 +62,13 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["logo.png"]
+    images: ["opengraph.png"]
 
     profileMode:
         enabled: false
         title: " OpenFeature - Cloud Native Feature Flag Management"
-        imageUrl: "#"
-        imageTitle: my image
+        imageUrl: "logo.png"
+        imageTitle: Logo
         imageWidth: 120
         imageHeight: 120
         buttons:

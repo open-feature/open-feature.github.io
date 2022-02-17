@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homes on OpenFeature project</title>
-    <link>https://openfeatureflags.github.io/home/</link>
+    <link>https://open-feature.github.io/home/</link>
     <description>Recent content in Homes on OpenFeature project</description>
     <image>
-      <url>https://openfeatureflags.github.io/logo.png</url>
-      <link>https://openfeatureflags.github.io/logo.png</link>
+      <url>https://open-feature.github.io/logo.png</url>
+      <link>https://open-feature.github.io/logo.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://openfeatureflags.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://open-feature.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Manifesto</title>
-      <link>https://openfeatureflags.github.io/home/manifesto/</link>
+      <link>https://open-feature.github.io/home/manifesto/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://openfeatureflags.github.io/home/manifesto/</guid>
+      <guid>https://open-feature.github.io/home/manifesto/</guid>
       <description>What is this project about?</description>
     </item>
     
     <item>
       <title>Interested? Contact Us!</title>
-      <link>https://openfeatureflags.github.io/home/participate/</link>
+      <link>https://open-feature.github.io/home/participate/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://openfeatureflags.github.io/home/participate/</guid>
+      <guid>https://open-feature.github.io/home/participate/</guid>
       <description>How to join and participate in the project</description>
     </item>
     

@@ -13,10 +13,10 @@ The community channels and project meetings will be established soon.
 
 The project follows the open governance model,
 and invites everyone to participate in the project governance and contribute to the specification.
-Learn more about project governance [here](https://github.com/openfeatureflags/governance).
+Learn more about project governance [here](https://github.com/open-feature/governance).
 
 
 ## Interested parties
 
 Multiple individual organizations and companies have declared their interested in the project.
-You can find the full list and join [here](https://github.com/openfeatureflags/governance/blob/main/interested-parties.md).
+You can find the full list and join [here](https://github.com/open-feature/governance/blob/main/interested-parties.md).

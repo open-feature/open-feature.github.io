@@ -7,7 +7,8 @@ weight: 3
 
 ## Participate
 
-Sign-up for the news and share your expectations using
+If you are interested to be informed about the project or to contribute,
+sign-up for news and share your expectations using
 **[this Google Form](https://bit.ly/openfeature-signup)**.
 This form collects contact emails and also offers opportunities to share your expectations for the project.
 We will contact you soon.

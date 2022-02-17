@@ -1,4 +1,4 @@
-baseURL: 'https://openfeatureflags.github.io/'
+baseURL: 'https://open-feature.github.io/'
 languageCode: 'en-us'
 title: 'OpenFeature project'
 theme: "papermod"

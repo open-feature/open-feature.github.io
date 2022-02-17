@@ -9,10 +9,10 @@ Our goal is to create an open standard for feature flag management to support a 
 
 The scope includes:
 - An **open standard** that allows adopters and vendors to easily integrate with spec-compliant feature flag solutions
-- Creating a **vendor-agnostic ecosystem** supported by the CNCF that provide a seamless experience for developers, SREs, and vendors
-- Providing Unified API and SDK;
+- A **vendor-agnostic ecosystem** for users, developers, SREs, and vendors
+- Unified API and SDK;
 - Developer-first, cloud-native reference implementation; 
-- Ensuring extensibility for open source and commercial offerings.
+- Extensibility for open source and commercial offerings.
 
 ## Why?
 

@@ -14,7 +14,7 @@ This form collects contact emails and also offers opportunities to share your ex
 We will contact you soon.
 
 Also feel free to add yourself and/or your organization to
-[Interested Parties](https://github.com/openfeatureflags/governance/blob/main/interested-parties.md).
+[Interested Parties](https://github.com/open-feature/governance/blob/main/interested-parties.md).
 This is a public listing for those individual and company contributors
 who declared their interest in the project.
 

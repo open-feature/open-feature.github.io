@@ -86,11 +86,11 @@ params:
           **[>> Sign-up for news <<](https://bit.ly/openfeature-signup)**
     socialIcons:
         - name: github
-          url: "https://github.com/openfeatureflags"
+          url: "https://github.com/open-feature"
         
 
     editPost:
-        URL: "https://github.com/openfeatureflags/openfeatureflags.github.io/tree/main/content"
+        URL: "https://github.com/open-feature/open-feature.github.io/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 

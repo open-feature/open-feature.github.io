@@ -21,12 +21,21 @@
     </item>
     
     <item>
-      <title>Interested? Contact Us!</title>
+      <title>Community</title>
+      <link>https://open-feature.github.io/home/community/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-feature.github.io/home/community/</guid>
+      <description>Our channels, interested parties and governance</description>
+    </item>
+    
+    <item>
+      <title>Interested? Join Us!</title>
       <link>https://open-feature.github.io/home/participate/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://open-feature.github.io/home/participate/</guid>
-      <description>How to join and participate in the project</description>
+      <description>How to participate in the project and its community</description>
     </item>
     
   </channel>

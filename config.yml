@@ -21,20 +21,18 @@ languages:
     en:
         languageName: "English"
         weight: 1
-      #  menu:
-     #       main:
-     #           - name: Archive
-     #             url: archives
-     #             weight: 5
-     #           - name: Search
-     #             url: search/
-     #             weight: 10
-     #           - name: Tags
-     #             url: tags/
-     #             weight: 10
-     #           - name: Categories
-     #             url: categories/
-     #             weight: 10
+        menu:
+            main:
+            - name: GitHub
+              url: https://github.com/openfeatureflags
+              weight: 1
+            - name: Specification
+              url: https://github.com/openfeatureflags/spec
+              weight: 2
+            - name: Participate
+              url: home/participate/
+              weight: 3
+
 
 outputs:
     home:
@@ -68,11 +66,13 @@ params:
         imageTitle: my image
         imageWidth: 120
         imageHeight: 120
-      #  buttons:
-      #      - name: Archives
-      #        url: archives
-      #      - name: Tags
-      #        url: tags
+        buttons:
+            - name: GitHub
+              url: https://github.com/openfeatureflags
+            - name: Specification
+              url: https://github.com/openfeatureflags/spec
+            - name: Participate
+              url: participate
 
     homeInfoParams:
         Title: "OpenFeature - Cloud Native Feature Flag Management"
@@ -87,7 +87,6 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/openfeatureflags"
-        
 
     editPost:
         URL: "https://github.com/openfeatureflags/openfeatureflags.github.io/tree/main/content"

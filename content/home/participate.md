@@ -1,6 +1,6 @@
 ---
-title: "Interested? Contact Us!"
-summary: "How to join and participate in the project"
+title: "Interested? Join Us!"
+summary: "How to participate in the project and its community"
 date: 2022-02-11
 weight: 3
 ---
@@ -12,7 +12,7 @@ Sign-up for the news and share your expectations using
 This form collects contact emails and also offers opportunities to share your expectations for the project.
 We will contact you soon.
 
-Also feel free to add yourself to
+Also feel free to add yourself and/or your organization to
 [Interested Parties](https://github.com/openfeatureflags/governance/blob/main/interested-parties.md).
 This is a public listing for those individual and company contributors
 who declared their interest in the project.

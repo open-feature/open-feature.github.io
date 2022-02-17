@@ -2,7 +2,7 @@
 title: "Project Manifesto"
 summary: "What is this project about?"
 date: 2022-02-11
-weight: 2
+weight: 1
 ---
 
 Our goal is to create an open standard for feature flag management to support a robust feature flag ecosystem using cloud native technologies.

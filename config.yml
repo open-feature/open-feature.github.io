@@ -1,6 +1,6 @@
 baseURL: 'https://open-feature.github.io/'
 languageCode: 'en-us'
-title: 'OpenFeature project'
+title: 'OpenFeature'
 theme: "papermod"
 relativeUrls: true
 enableEmoji: true
@@ -23,8 +23,8 @@ languages:
         weight: 1
         menu:
             main:
-            - name: Why OpenFeature?
-              url: home/manifesto/
+            - name: Overview
+              url: home/overview/
               weight: 1
             - name: Specification
               url: https://github.com/open-feature/spec

@@ -65,19 +65,18 @@ params:
     images: ["opengraph.png"]
 
     profileMode:
-        enabled: false
-        title: " OpenFeature - Cloud Native Feature Flag Management"
+        enabled: true
+        title: " OpenFeature"
+        subtitle: "Cloud Native Feature Flag Management"
         imageUrl: "logo.png"
         imageTitle: Logo
-        imageWidth: 120
-        imageHeight: 120
+        imageWidth: 180
+        imageHeight: 180
         buttons:
-            - name: GitHub
+            - name: Learn more
               url: https://github.com/open-feature
-            - name: Specification
+            - name: Get involved
               url: https://github.com/open-feature/spec
-            - name: Participate
-              url: participate
 
     homeInfoParams:
         Title: "OpenFeature - Cloud Native Feature Flag Management"
@@ -89,9 +88,9 @@ params:
           <br>
           <br>
           **[>> Sign-up for news <<](https://bit.ly/openfeature-signup)**
-    socialIcons:
-        - name: github
-          url: "https://github.com/open-feature"
+#    socialIcons:
+#        - name: github
+#          url: "https://github.com/open-feature"
 
     editPost:
         URL: "https://github.com/open-feature/open-feature.github.io/tree/main/content"

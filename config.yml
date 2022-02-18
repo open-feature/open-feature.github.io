@@ -23,8 +23,8 @@ languages:
         weight: 1
         menu:
             main:
-            - name: Why OpenFeature?
-              url: home/principles/
+            - name: Overview
+              url: home/overview/
               weight: 1
             - name: Specification
               url: https://github.com/open-feature/spec

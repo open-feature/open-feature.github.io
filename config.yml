@@ -65,19 +65,23 @@ params:
     images: ["opengraph.png"]
 
     profileMode:
-        enabled: false
-        title: " OpenFeature - Cloud Native Feature Flag Management"
+        enabled: true
+        title: " OpenFeature"
+        subtitle: >
+          OpenFeature is an **open standard** for feature flag management, created to support a
+          robust feature flag ecosystem using cloud native technologies. OpenFeature will provide
+          a **unified API and SDK**, and a **developer-first, cloud-native implementation**, with
+          **extensibility for open source and commercial offerings**.
+          <br>
+          <br>
+          **[>> Sign-up for news <<](https://bit.ly/openfeature-signup)**
         imageUrl: "logo.png"
         imageTitle: Logo
-        imageWidth: 120
-        imageHeight: 120
         buttons:
-            - name: GitHub
-              url: https://github.com/open-feature
-            - name: Specification
-              url: https://github.com/open-feature/spec
-            - name: Participate
-              url: participate
+            - name: Learn more
+              url: /home/overview/
+            - name: Get involved
+              url: /home/participate/
 
     homeInfoParams:
         Title: "OpenFeature - Cloud Native Feature Flag Management"
@@ -89,9 +93,9 @@ params:
           <br>
           <br>
           **[>> Sign-up for news <<](https://bit.ly/openfeature-signup)**
-    socialIcons:
-        - name: github
-          url: "https://github.com/open-feature"
+#    socialIcons:
+#        - name: github
+#          url: "https://github.com/open-feature"
 
     editPost:
         URL: "https://github.com/open-feature/open-feature.github.io/tree/main/content"

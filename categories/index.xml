@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on OpenFeature project</title>
+    <title>Categories on OpenFeature</title>
     <link>https://open-feature.github.io/categories/</link>
-    <description>Recent content in Categories on OpenFeature project</description>
+    <description>Recent content in Categories on OpenFeature</description>
     <image>
       <url>https://open-feature.github.io/opengraph.png</url>
       <link>https://open-feature.github.io/opengraph.png</link>

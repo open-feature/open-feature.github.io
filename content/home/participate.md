@@ -18,11 +18,19 @@ Also feel free to add yourself and/or your organization to
 This is a public listing for those individual and company contributors
 who declared their interest in the project.
 
+## Slack
+
+We plan to create the official Slack workspace later so that multiple workstreams and channels could be established there.
+For now, we have an `$openfeature` Slack channel on the CNCF Slack Workspace.
+You can join this Slack using [this link](https://slack.cncf.io/).
+
 ## Project meetings
 
 Stay tuned for the announcements!
+**[Sign-up for news](https://bit.ly/openfeature-signup)** to get invite to the time poll and the meetings
+until the official channel is set up.
 
 ## Contributing
 
-* Join our [Slack channel #openfeature](https://cloud-native.slack.com/archives/C0344AANLA1) on the CNCF Slack Workspace.
+* Join our [#openfeature channel](#Slack) on the CNCF Slack Workspace.
 * Also check out our [Contributing Guidelines](https://github.com/openfeatureflags/.github/blob/main/CONTRIBUTING.md)

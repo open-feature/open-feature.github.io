@@ -21,7 +21,7 @@ who declared their interest in the project.
 ## Slack
 
 We plan to create the official Slack workspace later so that multiple workstreams and channels could be established there.
-For now, we have an `$openfeature` Slack channel on the CNCF Slack Workspace.
+For now, we have an `openfeature` Slack channel on the CNCF Slack Workspace.
 You can join this Slack using [this link](https://slack.cncf.io/).
 
 ## Project meetings

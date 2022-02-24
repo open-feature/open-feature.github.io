@@ -24,5 +24,5 @@ Stay tuned for the announcements!
 
 ## Contributing
 
-* We will create the communication channels and start regular project meetings soon.
+* Join our [Slack channel #openfeature](https://cloud-native.slack.com/archives/C0344AANLA1) on the CNCF Slack Workspace.
 * Also check out our [Contributing Guidelines](https://github.com/openfeatureflags/.github/blob/main/CONTRIBUTING.md)

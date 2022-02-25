@@ -28,7 +28,6 @@ You can join this Slack using [this link](https://slack.cncf.io/).
 
 Stay tuned for the announcements!
 **[Sign-up](https://bit.ly/openfeature-signup)** to get invited the meetings.
-until the official channel is set up.
 
 ## Contributing
 

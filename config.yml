@@ -11,7 +11,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-# googleAnalytics: UA-123-45
+googleAnalytics: "G-HBXXCF17TS"
 
 minify:
     disableXML: true

@@ -27,7 +27,8 @@ You can join this Slack using [this link](https://slack.cncf.io/).
 ## Project meetings
 
 The first meeting will take place on March 03, 3PM UTC.
-The regular meetings will be announced later.
+The regular meetings will be announced later,
+please subscribe to the [event calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b2FoNjM2NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 Stay tuned for the announcements!
 **[Sign-up](https://bit.ly/openfeature-signup)** to get invited the meetings.
 

@@ -29,15 +29,18 @@ languages:
             - name: Specification
               url: https://github.com/open-feature/spec
               weight: 2
+            - name: Roadmap
+              url: https://github.com/orgs/open-feature/projects/1
+              weight: 3
             - name: Community
               url: home/community/
               weight: 4
             - name: Participate
               url: home/participate/
-              weight: 4
+              weight: 5
             - name: GitHub
               url: https://github.com/open-feature
-              weight: 5
+              weight: 6
 
 outputs:
     home:

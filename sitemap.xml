@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://open-feature.github.io/home/overview/</loc>
+    <loc>https://openfeature.dev/home/overview/</loc>
     <lastmod>2022-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://open-feature.github.io/home/community/</loc>
+    <loc>https://openfeature.dev/home/community/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://open-feature.github.io/home/participate/</loc>
+    <loc>https://openfeature.dev/home/participate/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://open-feature.github.io/home/</loc>
+    <loc>https://openfeature.dev/home/</loc>
     <lastmod>2022-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://open-feature.github.io/</loc>
+    <loc>https://openfeature.dev/</loc>
     <lastmod>2022-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://open-feature.github.io/categories/</loc>
+    <loc>https://openfeature.dev/categories/</loc>
   </url><url>
-    <loc>https://open-feature.github.io/series/</loc>
+    <loc>https://openfeature.dev/series/</loc>
   </url><url>
-    <loc>https://open-feature.github.io/tags/</loc>
+    <loc>https://openfeature.dev/tags/</loc>
   </url>
 </urlset>
